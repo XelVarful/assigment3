@@ -1,3 +1,3 @@
 public class adil {
-    String name = Adil;
+    String name;
 }
